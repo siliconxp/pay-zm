@@ -1,0 +1,7 @@
+{
+  "appId": "zm.co.me.pay",
+  "appName": "pay-zm",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "windowsAndroidStudioPath": "C:\\dev\\tools\\studio\\bin\\studio64.exe"
+}
