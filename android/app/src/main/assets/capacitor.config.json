@@ -1,6 +1,0 @@
-{
-  "appId": "zm.co.me.pay",
-  "appName": "pay-zm",
-  "bundledWebRuntime": false,
-  "webDir": "www"
-}

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">pay-zm</string>
-    <string name="title_activity_main">pay-zm</string>
-    <string name="package_name">zm.co.me.pay</string>
-    <string name="fileprovider_authority">zm.co.me.pay.fileprovider</string>
-    <string name="custom_url_scheme">zm.co.me.pay</string>
-</resources>
